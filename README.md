@@ -24,12 +24,12 @@ You can run it in two main ways:
 
 1. Clone the repo and `cd` into the project folder. (git clone https://github.com/pydisandeep/minimalRAG.git)
 2. Install dependencies:
-**Backend (Python)**  
-   ```bash
+**Backend (Python)**
 ```
 cd backend
 source venv/Scripts/activate
 pip install -r requirements.txt
+
 
  **Frontend (React)**
 ```
