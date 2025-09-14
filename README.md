@@ -31,7 +31,6 @@ You can run it in two main ways:
   **Backend (Python)**
    cd backend
    source venv/bin/activate
-   # Install packages
    pip install -r requirements.txt
 
    **Frontend (React)**
