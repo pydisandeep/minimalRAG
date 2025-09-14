@@ -22,7 +22,7 @@ You can run it in two main ways:
 
 ## 🛠️ Setup
 
-1. Clone the repo and `cd` into the project folder.
+1. Clone the repo and `cd` into the project folder. (git clone https://github.com/pydisandeep/minimalRAG.git)
 2. Install dependencies:
 **Backend (Python)**  
    ```bash
