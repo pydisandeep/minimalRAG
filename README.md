@@ -26,11 +26,13 @@ You can run it in two main ways:
 2. Install dependencies:
 **Backend (Python)**  
    ```bash
+```
 cd backend
 source venv/Scripts/activate
 pip install -r requirements.txt
 
  **Frontend (React)**
+```
 cd frontend
 npm install
 
@@ -41,23 +43,24 @@ npm install
 🔹 Windows PowerShell / CMD
 
 **Backend**
-
+```
 cd backend
 python -m uvicorn app.fastapi:app --reload
 
 **Frontend**
+```
 cd frontend
 npm start
 
 🔹 Git Bash / Linux / macOS
 
 **Backend**
-
+```
 cd backend
 uvicorn app.fastapi:app --reload
 
 **Frontend**
-
+```
 cd frontend
 npm start
 
@@ -66,10 +69,12 @@ npm start
 If you don’t want UI/API, you can run a simple chatbot directly in the terminal.
 
 🔹 Windows PowerShell / CMD
+```
 cd backend
 python app\minimal_rag.py
 
 🔹 Git Bash / Linux / macOS
+```
 cd backend
 python app/minimal_rag.py
 
