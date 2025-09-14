@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai
+pandas
+uvicorn
+fastapi
+sentence-transformers
+chromadb
+huggingface_hub

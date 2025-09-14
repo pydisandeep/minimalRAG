@@ -1,0 +1,36 @@
+
+Cancer Immunotherapy in Progress: An Overview of the Past 130 Years
+
+Cancer immunotherapy represents one of the most significant breakthroughs in cancer treatment, harnessing the body's immune system to fight cancer cells. Here's a concise historical overview:
+
+Late 19th Century (1890s):
+- William Coley, considered the "father of immunotherapy," used bacterial toxins (Coley’s toxins) to stimulate the immune system against cancer, observing tumor shrinkage in several patients.
+
+Early to Mid-20th Century (1900-1960):
+- Progress slowed due to inconsistent results and the rise of radiation and chemotherapy.
+- Nonetheless, understanding of immune mechanisms began expanding significantly.
+
+1960-1990:
+- Discovery and understanding of immune cells, cytokines, and immune signaling pathways.
+- Development of cytokine therapies, notably interferon-alpha and interleukin-2 (IL-2), providing proof-of-concept for immunotherapy.
+
+1990-2010:
+- Approval of cytokine therapies, with IL-2 approved for melanoma and renal cell carcinoma.
+- Development of therapeutic cancer vaccines, such as Sipuleucel-T (Provenge), approved in 2010 for prostate cancer.
+- Identification and study of immune checkpoints, proteins that regulate immune responses, notably CTLA-4 and PD-1/PD-L1.
+
+2010-Present:
+- Revolution through immune checkpoint inhibitors:
+  - Ipilimumab (anti-CTLA-4) approved in 2011 for metastatic melanoma.
+  - Pembrolizumab and nivolumab (anti-PD-1) approved for various cancers including melanoma, lung cancer, kidney cancer, and others.
+  - Atezolizumab, durvalumab, and avelumab (anti-PD-L1) further expand treatment options.
+
+- Emergence of CAR-T cell therapies:
+  - Approval of Kymriah (tisagenlecleucel) in 2017 for acute lymphoblastic leukemia (ALL).
+  - Approval of Yescarta (axicabtagene ciloleucel) for large B-cell lymphoma.
+
+- Continued advancements:
+  - Development of combination therapies enhancing efficacy.
+  - Ongoing exploration of personalized immunotherapies, including neoantigen vaccines and personalized T-cell therapies.
+
+Today, cancer immunotherapy remains a rapidly advancing field, continuously improving outcomes and transforming cancer care by leveraging the power of the immune system.
