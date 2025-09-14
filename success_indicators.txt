@@ -1,0 +1,25 @@
+Success Indicators
+
+1. Relevance: Retrieved chunks align with user query
+
+2. Completeness: Covers all key points from docs
+
+3. Explainability: Answer shows document sources
+
+4. Performance: Response < 3 seconds
+
+5. Extensibility: Easy to add new .txt files
+
+Tools & Models Used
+
+1. LangChain → Document chunking
+
+2. Chroma  → Vector store
+
+3. SentenceTransformers → Embeddings
+
+4. Hugging Face (Mistral-7B-Instruct) → LLM
+
+5. FastAPI → Backend API
+
+6. React → Frontend UI
