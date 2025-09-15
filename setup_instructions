@@ -44,7 +44,14 @@ npm install
 
 Backend
 
-From the backend folder, activate your venv (as shown above), then run:
+From the backend folder, activate your venv (as above), then run:
+
+Windows (CMD / PowerShell):
+
+python -m uvicorn app.fastapi:app --reload
+
+
+Linux / macOS / Git Bash:
 
 uvicorn app.fastapi:app --reload
 
