@@ -21,3 +21,5 @@ You can run it in two main ways:
 ---
 
 ## for setup instructions go to setup_instructions.txt file in the repo**
+
+## for documents being used to build this app , please go to backend/docs and ask questions 
