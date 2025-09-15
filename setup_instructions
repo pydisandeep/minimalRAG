@@ -1,5 +1,32 @@
 🛠️ Setup
 
+🔑 Hugging Face API Token Setup
+
+This project requires a Hugging Face API token for model access.
+
+Go to Hugging Face Tokens Page
+https://huggingface.co/settings/tokens
+
+Create a new Access Token (with at least “Read” permissions). or use existing token
+
+Set it as an environment variable before running the backend:
+
+Windows CMD
+
+set HF_API_TOKEN=your_token_here
+
+
+Windows PowerShell
+
+$env:HF_API_TOKEN="your_token_here"
+
+
+Linux / macOS / Git Bash
+
+export HF_API_TOKEN=your_token_here
+
+
+
 Clone the repo and cd into the project folder:
 
 git clone https://github.com/pydisandeep/minimalRAG.git
