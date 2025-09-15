@@ -20,4 +20,4 @@ You can run it in two main ways:
 
 ---
 
-**##for setup instructions go to setup_instructions.txt file in the repo**
+## for setup instructions go to setup_instructions.txt file in the repo**
