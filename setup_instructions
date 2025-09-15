@@ -17,7 +17,7 @@ Activate venv (depending on your shell):
 
 Windows CMD
 
-venv\Scripts\activate.bat
+venv\Scripts\activate
 
 
 Windows PowerShell
